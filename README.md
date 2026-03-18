@@ -1,6 +1,6 @@
 # Java Number Guessing Game
 
-This is a console-based number guessing game built in Java.
+A simple Java console application demonstrating input validation, exception handling, and object-oriented design.
 
 ## Features
 - Random number generation
